@@ -1,0 +1,41 @@
+commit 28c7bac71d95d26c22c78b93889e1c0dd1d29972
+Author: Nathan Wells <nthnwells1@gmail.com>
+Date:   Sun Aug 13 18:20:53 2023 +0200
+
+    Cleaned up code and added in final comments
+
+commit bbc8127f54918ae973865834845d41db6e6e7092
+Author: Nathan Wells <nthnwells1@gmail.com>
+Date:   Wed Aug 9 17:48:40 2023 +0200
+
+    Added new helper class to store minimum height and index and adapted code to that.
+
+commit 9cd66e88a1bed13ce2610cff33c76a1025b23791
+Author: Nathan Wells <nthnwells1@gmail.com>
+Date:   Tue Aug 8 14:40:10 2023 +0200
+
+    Added in comments to explain and ran some tests using Rosenbrock function.
+
+commit c62c14ce0ffa33611e6987383b8ff92777ecd5aa
+Author: Nathan Wells <nthnwells1@gmail.com>
+Date:   Fri Aug 4 16:36:06 2023 +0200
+
+    Made new Directions class to get Makefile to work. Worked further on my parallel solution.
+
+commit 0a57428ac8fb17a79e76cc20c004cf654ee5ea0b
+Author: Nathan Wells <nthnwells1@gmail.com>
+Date:   Fri Aug 4 11:43:02 2023 +0200
+
+    Fixed up errors with type mismatches and logic of using low and high.
+
+commit 12f662757fd140b3d55fd3e5a0d0cfb85301190c
+Author: Nathan Wells <nthnwells1@gmail.com>
+Date:   Tue Aug 1 22:09:32 2023 +0200
+
+    Started on my parallel solution by splitting and using fork on the array of Search Objects.
+
+commit 1dd7bbe5400213921b8962b2b2af987deef10718
+Author: Nathan Wells <nthnwells1@gmail.com>
+Date:   Tue Aug 1 14:19:21 2023 +0200
+
+    Downloaded java files from Vula to experiment with
